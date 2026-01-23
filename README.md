@@ -15,7 +15,7 @@ I'm a **Business Economics Graduate** 🎓 from the **University of Central Flor
 
 ### ⚡️ A Few Quick Facts
 
-* 🔭 I’m currently working on **Expanding my SQL Portfolio**.
+* 🔭 I just published my [B2B Sales Funnel Optimization Project](https://github.com/JoaoPSobral/B2B-Sales-Funnel-SQL).
 * 🎓 I hold a **BSBA in Business Economics** and an **Associate of Arts** from Valencia College.
 * 🛠 I enjoy working on:
     * 📊 **Sales Analysis & Forecasting**
